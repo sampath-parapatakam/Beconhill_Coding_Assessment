@@ -10,6 +10,8 @@ in command line goto the extracted folder and run npm init. This will do the set
 
 ### the data file is inside Api folder in json format. The file dataService.js has the data.
 
+The data can be seen in DATA.png file.
+
 
 
 
